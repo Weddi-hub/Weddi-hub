@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  WALEED AHMED @Weddi-hub
-- 👀 I’m interested in Web Designing front end , SEO Marketing , Google Ads  , photoshop ...
-- 🌱 I’m currently learning web designing redux and Material UI
+- 👀 I’m interested in Web Development , Android Development ,  Cyber Security etc
+- 🌱 I’m currently learning web designing redux and Material UI as a MERN Stack Developer .
 - 💞️ I’m looking to collaborate on everthing you need !!
 - 📫 How to reach me email at Weddi5455@gmail.com
